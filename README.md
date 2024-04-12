@@ -1,5 +1,7 @@
 # Examine-the-correlation-between-Twitter-Sentiment-data-and-stock-data
 
+DOI: 10.5281/zenodo.10966852
+
 
 ## External Datasets:
   Stockdata dataset: (DOI: 10.34740/kaggle/dsv/1054465) https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset/data
