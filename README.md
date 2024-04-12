@@ -1,9 +1,10 @@
 # Examine-the-correlation-between-Twitter-Sentiment-data-and-stock-data
-
 DOI: 10.5281/zenodo.10966852
 
+## Desription
+  The project delves into the relationship between Twitter sentiment and the stock performance of the 4 big tech companies Apple, Amazon, Google and Microsoft. Specifically, it involves analyzing individual tweets containing the keyword "Apple", "Amazon", "Google" or "Microsoft" using two sentiment analysis models to determine their sentiment, which can be classified as positive or negative for the normal model and positive, neutral or negative social media model. By examining the daily percentages of these sentiment classifications, we assess how they correlate with fluctuations in stock data on subsequent days. Employing standard statistical methods such as the Pearson Coefficient, p-values, and Mean Squared Error, we meticulously analyze the predictive accuracy of this correlation. 
 
-## External Datasets:
+## External Datasets
   Stockdata dataset: (DOI: 10.34740/kaggle/dsv/1054465) https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset/data
   Twitter dataset  : (No DOI available) https://www.kaggle.com/datasets/omermetinn/tweets-about-the-top-companies-from-2015-to-2020/data
 ## Execution
