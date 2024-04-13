@@ -14,3 +14,13 @@ DOI: 10.5281/zenodo.10966852
 
   Lastly the Project_Text_Mining_Stock_Data_Analysis.ipynb can be executed, which needs the stock data of the individual company as well as the sentiment data of the model/company as an input. This combines the dataset to get do create the final output needed for the report.
 
+## License
+  CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+
+The person who associated a work with this deed has dedicated the work to the public domain by waiving all of their rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+See the full legal text at: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+This repository including it's datasets is provided under the Creative Commons CC0 1.0 Universal Public Domain Dedication (CC0 1.0).
+
+
