@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:dcterms="http://purl.org/dc/terms/">
+  <dcterms:title>AMZN_social_media_bert</dcterms:title>
+  <dcterms:description>Sentiment percentage of everydays Amazon Twitter data</dcterms:description>
+  <dcterms:creator>Maximilian Koesslbacher</dcterms:creator>
+  <dcterms:creator>Maximilian Koesslbacher</dcterms:creator>
+  <dcterms:date>2024-20-12</dcterms:date>
+  <dcterms:subject>Amazon stock data</dcterms:subject>
+  <dcterms:subject>Amazon sentiment data</dcterms:subject>
+  <dcterms:format>CSV</dcterms:format>
+  <dcterms:type>Dataset</dcterms:type>
+  <dcterms:identifier>10.5281/zenodo.10966852</dcterms:identifier>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:coverage>Worldwide</dcterms:coverage>
+  <dcterms:accessRights>Public</dcterms:accessRights>
+  <dcterms:relation>Examine the correlation between Twitter Sentiment data and the stock data for 4 big tech companies</dcterms:relation>
+  <dcterms:version>1.0</dcterms:version>
+</metadata>
